@@ -1,2 +1,3 @@
-# dots-fedora
-My Fedora dotfiles
+# Fedora Dotfiles
+
+My Fedora installation dotfiles with Awesome window manager
